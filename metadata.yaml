@@ -1,5 +1,8 @@
 _repo: The-Truth-About-Lynching-and-The-Negro-in-the-South-In-which-the-Author-Pleads-that-the-South__67193
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67193-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, Winfield H. (Winfield Hazlitt)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51705'
     url: http://www.gutenberg.org/2009/agents/51705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67193#The-Truth-About-Lynching-and-The-Negro-in-the-South-In-which-the-Author-Pleads-that-the-South_
 gutenberg_issued: '2022-01-18'
 identifiers:
   gutenberg: '67193'
